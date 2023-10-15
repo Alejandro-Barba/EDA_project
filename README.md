@@ -41,6 +41,7 @@ Para ver el proceso del análisis utiliza en archivo eda.ipynb corriendo linea p
 ![Untitled](https://raw.githubusercontent.com/Alejandro-Tecno/EDA_project/main/results/images/boxplot.png)
 
 * Viendo las medias se puede observar que los días entre la factura y la entrega representan la mayor parte de los días del proceso de envíos
+
 ![Untitled](https://raw.githubusercontent.com/Alejandro-Tecno/EDA_project/main/results/images/radial.png)
 ______
 ## Conclusión
