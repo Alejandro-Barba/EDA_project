@@ -31,17 +31,17 @@ Para ver el proceso del análisis utiliza en archivo eda.ipynb corriendo linea p
 # Resumen de resultados
 
 * Se observan algunos valores vacíos 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/37386c13-c2dd-4472-bfad-89933d71b947/1bdf63a1-712c-4ffd-9085-baa0305196a7/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/Alejandro-Tecno/EDA_project/main/results/images/empty_values.png)
 
 * No se observa una alta correlación sobre la falta de valores en las variables
 * Se observan algunos outliers que al ser pocos, se procede a eliminar
 * Se observa que los días entre el pedido y la factura no tienen tanta variablilidad, como los dias de la factura a la entrega
 * No se observa correlación entre estas 3 variables
 * Con los gráficos de cajas y bigotes se puede observar la media y desviación de las 3 variables
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/37386c13-c2dd-4472-bfad-89933d71b947/d5184a2f-12b6-4586-bfd1-c9eaac387886/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/Alejandro-Tecno/EDA_project/main/results/images/boxplot.png)
 
 * Viendo las medias se puede observar que los días entre la factura y la entrega representan la mayor parte de los días del proceso de envíos
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/37386c13-c2dd-4472-bfad-89933d71b947/06cef8b3-48da-4f15-88b3-c709a53669de/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/Alejandro-Tecno/EDA_project/main/results/images/radial.png)
 ______
 ## Conclusión
 
