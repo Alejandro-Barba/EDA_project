@@ -31,18 +31,18 @@ Para ver el proceso del análisis utiliza en archivo eda.ipynb corriendo linea p
 # Resumen de resultados
 
 * Se observan algunos valores vacíos 
-![Untitled](https://raw.githubusercontent.com/Alejandro-Tecno/EDA_project/main/results/images/empty_values.png)
+![Empty values plot](https://raw.githubusercontent.com/Alejandro-Tecno/EDA_project/main/results/images/empty_values.png)
 
 * No se observa una alta correlación sobre la falta de valores en las variables
 * Se observan algunos outliers que al ser pocos, se procede a eliminar
 * Se observa que los días entre el pedido y la factura no tienen tanta variablilidad, como los dias de la factura a la entrega
 * No se observa correlación entre estas 3 variables
 * Con los gráficos de cajas y bigotes se puede observar la media y desviación de las 3 variables
-![Untitled](https://raw.githubusercontent.com/Alejandro-Tecno/EDA_project/main/results/images/boxplot.png)
+![Box plot](https://raw.githubusercontent.com/Alejandro-Tecno/EDA_project/main/results/images/boxplot.png)
 
 * Viendo las medias se puede observar que los días entre la factura y la entrega representan la mayor parte de los días del proceso de envíos
 
-![Untitled](https://raw.githubusercontent.com/Alejandro-Tecno/EDA_project/main/results/images/radial.png)
+![Radial plot](https://raw.githubusercontent.com/Alejandro-Tecno/EDA_project/main/results/images/radial.png)
 ______
 ## Conclusión
 
@@ -54,5 +54,9 @@ https://altair-viz.github.io/index.html
 
 https://matplotlib.org
 
+_____
+# Proyecto compartido en Facebook (necesario para completar la actividad)
+
+![Facebook share](https://i.imgur.com/CGTuzq5.png)
 
 Este proyecto se realizó utilizando la version 3.11.2 de python
